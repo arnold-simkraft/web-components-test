@@ -1,4 +1,4 @@
-<!-- To Setup the projects for Testing -->
+<!-- Setup of the project for Web-Component || Completed -->
 1. Custom Components (in this case SDT-Components) needs to export the CSS
 2. Web-Component (Name all the Vue Components that you want to export to end with "*.ce.vue")
 3. In the HTML import it with the name of the component i.e. (wc-app)
